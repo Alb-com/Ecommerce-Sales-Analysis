@@ -20,6 +20,9 @@ E-Commerce Sales Analysis Data:
 - Row chart to view sales trends.
 - KPI chart: total sales and average ticket.
 ## 📎Dashboard Screenshots
+<img src="./reports/ecommerce_Sales_data_clean.jpg" alt="Dashboard" width="100%" height="300px" />
+
+
 ## 🧠 Lessons Learned
 - Knowledge and use of Python for data cleansing, organization, and extraction.
 - Combined use with Power BI for actionable insights.
